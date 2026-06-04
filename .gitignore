@@ -11,6 +11,7 @@ build/
 .vscode/ipch/
 compile_commands.json
 .DS_Store
+.codegraph/
 
 # ===== 大文件 / 版权内容(不入库)=====
 reference/slambook2.pdf
@@ -22,6 +23,9 @@ perception/visual_slam/ch3_eigen/ex01_basics
 perception/visual_slam/ch3_eigen/ex02_rotation
 perception/visual_slam/ch3_eigen/ex03_gimbal_lock
 perception/visual_slam/ch3_eigen/ex04_exercises
+perception/visual_slam/ch4_sophus/ex01_sophus_basics
+perception/visual_slam/ch4_sophus/ex02_trajectory_error
+perception/visual_slam/ch4_sophus/ex03_adjoint
 # slambook2 官方示例
 reference/slambook2/coordinateTransform
 reference/slambook2/eigenGeometry

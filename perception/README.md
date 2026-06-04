@@ -6,7 +6,7 @@
 
 | 目录 | 内容 | 状态 |
 |---|---|---|
-| [visual_slam/](visual_slam/) | 视觉 SLAM,《视觉SLAM十四讲》练习 | 进行中(ch3) |
+| [visual_slam/](visual_slam/) | 视觉 SLAM,《视觉SLAM十四讲》练习 | 进行中(ch4) |
 
 ## 相关参考工程
 

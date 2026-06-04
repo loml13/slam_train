@@ -8,10 +8,11 @@
 | 目录 | 内容 | 状态 |
 |---|---|---|
 | [ch3_eigen/](ch3_eigen/) | 第3章:Eigen 几何模块 —— 旋转与变换表示 | 完成 |
+| [ch4_sophus/](ch4_sophus/) | 第4章:Sophus 李群李代数 —— exp/log、BCH、扰动模型 | 进行中(骨架) |
 
 ## 构建
 
-用 CMake 管理(`CMakeLists.txt` 依赖 Eigen3):
+用 CMake 管理(`CMakeLists.txt` 依赖 Eigen3;ch4 另需 Sophus,见 [ch4_sophus/README.md](ch4_sophus/README.md)):
 
 ```bash
 cmake -B build

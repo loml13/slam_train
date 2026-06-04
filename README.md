@@ -35,7 +35,7 @@ git submodule update --remote reference/FAST_LIO
 
 | 方向 | 内容 | 状态 |
 |---|---|---|
-| **perception** 感知 | 视觉/激光 SLAM、特征提取、传感器模型 | 进行中(ch3) |
+| **perception** 感知 | 视觉/激光 SLAM、特征提取、传感器模型 | 进行中(ch4) |
 | **fusion** 融合 | 多传感器融合、卡尔曼/粒子滤波、外参标定 | 待开始 |
 | **planning** 规划 | 全局/局部路径规划、避障、运动控制 | 待开始 |
 
